@@ -1,6 +1,6 @@
 - 👋 OI, me chamo de @LuccasgDev
 - eu sou de Fortaleza-CE
-- Eu faço a Graduaçao de ensino superior em Analise e Desenvolvimento de Sistema
+- Eu faço tecnologo de ensino superior em Analise e Desenvolvimento de Sistema
 - tenho 20 anos
 - sou uma pessoa que gosta de aventuras e muitas diversao
 - fã de jogos
