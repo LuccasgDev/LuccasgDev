@@ -1,54 +1,43 @@
-**👋 Oi, eu sou o Lucas Gabriel**
-Tecnólogo em Análise e Desenvolvimento de Sistemas | Fortaleza, CE
+👋 Oi, eu sou o Lucas GabrielTecnólogo em Análise e Desenvolvimento de Sistemas | Fortaleza, CE
 
----
+💼 Sobre mim
 
-## 💼 Sobre mim
+🎓 Estudante em Análise e Desenvolvimento de Sistemas (Faculdade CDL) – Conclusão: Dez/2025
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Faculdade CDL), conclusão: Dez/2025
-* 🔧 Experiência em suporte técnico N1 e desenvolvimento back-end
-* 🚀 Proativo, orientado a resultados e com forte capacidade de gestão de projetos
-* 🎮 Apaixonado por aventuras e jogos
+🔧 Experiência em Suporte Técnico N1 e Desenvolvimento Back-end
 
----
+🚀 Proativo, orientado a resultados e com forte habilidade de gestão de projetos
 
-## 🛠️ Principais Tecnologias
-> Gráfico de linguagens mais utilizadas no meu GitHub
-> 
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasgDev\&layout=compact)
+🎮 Apaixonado por aventuras, tecnologia e jogos
 
----
+🛠️ Principais Tecnologias
 
-## 🚀 Skills & Ferramentas
+Veja o gráfico atualizado com suas linguagens mais usadas no GitHub
 
-* **Back-end:** Spring Boot, Flask, Node.js, REST APIs, JWT
-* **Banco de Dados:** MySQL, PostgreSQL
-* **DevOps:** Docker, Git/GitHub/GitLab, GitLab CI/CD, AWS
-* **Metodologias:** Scrum, planejamento de cronogramas, documentação técnica
 
----
+📊 Estatísticas do GitHub
 
-## 📂 Projetos em Destaque
+Acompanhe minhas contribuições, streak e repositórios populares
 
-### [Event Tool – Projeto Acadêmico](https://projeto-event-tool.vercel.app)
 
-* API REST com Spring Boot e autenticação JWT
-* Deploy contínuo na Vercel
-* Funcionalidades: cadastro de eventos, controle de participantes, relatórios
 
-### [Repositório Acadêmico (TCCs)](https://repositorio-cdl.onrender.com)
+🚀 Skills & Ferramentas
 
-* Plataforma de gestão de TCCs com Node.js e PostgreSQL
-* Pipeline CI/CD no GitLab, centralizando +200 trabalhos
+Back-end: Spring Boot • Flask • Node.js • REST APIs • JWT
 
----
+Banco de Dados: MySQL • PostgreSQL
 
-## 📫 Contato
+DevOps & Infra: Docker • Git/GitHub/GitLab • CI/CD (GitLab, GitHub Actions) • AWS
 
-* 📧 [lucasg.dev@gmail.com](mailto:lucasg.dev@gmail.com)
-* 📱 (85) 9 9620-7714
-* 🌐 [GitHub](https://github.com/LuccasgDev) | [LinkedIn](https://linkedin.com/in/lucas-gabriel-99531b27b/)
+Metodologias: Scrum • Planejamento de cronogramas • Documentação técnica
 
----
 
-> "Apaixonado por tecnologia e sempre pronto para novos desafios!"
+📫 Contato
+
+✉️ lucasg.dev@gmail.com
+
+📱 (85) 9 9620-7714
+
+🌐 GitHub • LinkedIn
+
+"Apaixonado por tecnologia, sempre pronto para novos desafios e aventuras!"
