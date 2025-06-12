@@ -14,6 +14,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas | Fortaleza, CE
 
 ## 🛠️ Principais Tecnologias
 > Gráfico de linguagens mais utilizadas no meu GitHub
+> 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasgDev\&layout=compact)
 
 ---
