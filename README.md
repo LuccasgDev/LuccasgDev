@@ -13,15 +13,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas | Fortaleza, CE
 ---
 
 ## 🛠️ Principais Tecnologias
-
-```text
-• Java               ██████████ 60%  
-• Python             ████████░░ 50%  
-• JavaScript         ███████░░░ 45%  
-• TypeScript         ██████░░░░ 40%  
-• SQL (MySQL/Postgres) ██████░░░░ 40%
-```
-
 > Gráfico de linguagens mais utilizadas no meu GitHub
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasgDev\&layout=compact)
 
