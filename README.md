@@ -18,7 +18,7 @@
 ## 🚀 Sobre Mim
 
 ```diff
-+ Apaixonado por arquitetura de software
++ Apaixonado por Engenharia de software
 + Transformo café em código
 + Solucionador de problemas complexos
 ```
