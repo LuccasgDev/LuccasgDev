@@ -1,73 +1,67 @@
-# 👋 Olá! Eu sou o Lucas Gabriel
+# 👋 Olá
+# Eu sou o Lucas Gabriel
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Back-end em evolução
-🚀 Focado em produtividade com Inteligência Artificial
-
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor com experiência em suporte técnico e backend, apaixonado por automação e melhoria contínua.
-Estruturo meu fluxo de trabalho com **copilotos e micro-agentes de IA** para acelerar desenvolvimento, testes e documentação.
-
-Acredito que produtividade inteligente muda o jogo.
+**Backend Developer | AI-Augmented Development | Cloud & Automation Enthusiast**
 
 ---
 
-## 🚀 Meu Foco Atual
-
-* 🔧 Desenvolvimento de APIs REST (Java / Python)
-* 🐳 Docker & boas práticas DevOps
-* 🤖 AI-Augmented Development
-* ⚡ Automação de tarefas técnicas
-* 📈 Evolução para Backend moderno + Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-green?style=for-the-badge&logo=briefcase" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Stack-Java%20•%20Python%20•%20Docker-blue?style=for-the-badge&logo=oracle" alt="Stack" />
+  <img src="https://img.shields.io/badge/Location-Fortaleza%2C%20BR-orange?style=for-the-badge&logo=geo" alt="Location" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔎 Sobre mim
 
-### 💻 Backend
+Desenvolvedor Back-end em evolução, com experiência em suporte técnico e automação.
+Estruturo meu fluxo com **copilotos e micro-agentes de IA** para acelerar prototipação, testes e documentação.
+Busco oportunidades em backend, automação e cloud
 
-* Java (Spring Boot)
-* Python (FastAPI)
-* Node.js
+---
 
-### 🗄️ Banco de Dados
+## 🎯 Faço/Tenho foco em
 
-* PostgreSQL
-* MySQL
+* Desenvolvimento de APIs REST (Java / Python)
+* Automação de tarefas e micro-agentes
+* Docker / CI-CD (GitHub Actions)
+* Banco de dados: PostgreSQL e MySQL
+* Melhoria contínua e práticas de engenharia
 
-### ⚙️ DevOps & Ferramentas
+---
 
-* Docker
-* Git & GitHub
-* GitHub Actions
-* Linux
+## 🛠 Tech Stack
 
-### 🤖 Produtividade com IA
+**Backend:** Java (Spring Boot) · Python (FastAPI) · Node.js
+**DB:** PostgreSQL · MySQL
+**Infra / DevOps:** Docker · GitHub Actions · Linux
+**IA / Produtividade:** Copilotos, geração assistida de docs e scripts de automação
 
-* Copilotos para aceleração de código
-* Micro-agentes para automação
-* Geração assistida de testes e documentação
+---
+
+## ⭐ Projetos em destaque
+
+* **AI Productivity Lab** — micro-agentes para sumarização de logs, scaffold de APIs e geração automática de README.
+* **APIs Backend** — projetos com autenticação, Swagger e Docker (links no meu GitHub).
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LuccasgDev&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuccasgDev&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuccasgDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuccasgDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌎 Objetivo Profissional
+## 📈 Objetivo profissional
 
 Construir soluções escaláveis, automatizadas e bem documentadas.
-Crescer como Backend Engineer com foco em Cloud e Engenharia de Software moderna.
+Evoluir como Backend Engineer com atuação em Cloud e melhores práticas de engenharia de software.
 
 ---
-
 ## 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/lucas-gabriel-99531b27b)
@@ -75,11 +69,8 @@ Crescer como Backend Engineer com foco em Cloud e Engenharia de Software moderna
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Meu Pensamento
 
-Eu não vejo IA como substituição de desenvolvedor — vejo como amplificador de capacidade.
-Meu objetivo é ser um engenheiro que constrói sistemas melhores, não apenas código.
+Acredito que IA deve amplificar o engenheiro — não substituí-lo. Trabalho para construir processos que tornam times mais rápidos, consistentes e seguros.
 
 ---
-
-# 🚀 “Consistência > Motivação. Evolução diária.”
